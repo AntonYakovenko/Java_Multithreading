@@ -1,3 +1,5 @@
+package reentrant_lock;
+
 public class ProducerConsumerExample {
     public static void main(String[] args) {
         SingleElementBuffer buffer = new SingleElementBuffer();

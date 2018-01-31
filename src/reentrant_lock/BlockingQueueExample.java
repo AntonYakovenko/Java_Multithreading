@@ -1,10 +1,12 @@
+package reentrant_lock;
+
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 //  Producers / Consumers
-public class App00 {
+public class BlockingQueueExample {
     public static void main(String[] args) {
 //        BlockingQueue<String> queue = new ArrayBlockingQueue<>(16);
         BlockingQueue<String> queue = new LinkedBlockingQueue<>();

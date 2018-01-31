@@ -1,3 +1,5 @@
+package reentrant_lock;
+
 public class SingleElementBuffer {
     private Integer elem = null;
 //    private final Object lock = new Object();

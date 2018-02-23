@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6957446e-8ad8-4a04-9976-c367fdbab226" name="Default" comment="no commit message">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/App00.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/App01.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/App02.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/App03.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/App10.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/App11.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/AppsNewLection/App20.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/AppsNewLection/App21.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/AppsNewLection/App22.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/AppsNewLection/App23.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/AppsNewLection/App24.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/AppsNewLection/App25.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8_streams_lambdas/AppsNewLection/App26.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -90,7 +77,7 @@
       <file leaf-file-name="App26.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java8_streams_lambdas/AppsNewLection/App26.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
+            <state relative-caret-position="97">
               <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
@@ -160,7 +147,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
@@ -436,15 +423,15 @@
       <workItem from="1517344944674" duration="2558000" />
       <workItem from="1518254567017" duration="38000" />
       <workItem from="1518364895970" duration="1093000" />
-      <workItem from="1518366798959" duration="586000" />
+      <workItem from="1518366798959" duration="1096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4275000" />
+    <option name="totallyTimeSpent" value="4785000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -457,7 +444,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2735043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -895,7 +882,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java8_streams_lambdas/AppsNewLection/App26.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="97">
           <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
